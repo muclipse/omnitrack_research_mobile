@@ -1,0 +1,3 @@
+rootProject.name = 'omnitrack_research_mobile'
+
+include ':app'
